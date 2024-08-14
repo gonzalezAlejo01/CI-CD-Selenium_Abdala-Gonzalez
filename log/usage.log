@@ -1,0 +1,21 @@
+2023-08-28 15:08:29 - [32minfo[39m: Creating configuration file...
+2023-08-28 15:08:29 - [32minfo[39m: Adding new script(s) in package.json...
+2023-08-28 15:08:29 - [32minfo[39m: Setup completed
+2023-08-28 15:16:34 - [32minfo[39m: Reading configs from /home/tempbruh/Escritorio/borrame/CI-CD-Selenium_Abdala-Gonzalez-main/browserstack.yml
+2023-08-28 15:16:34 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-08-28 15:16:36 - [32minfo[39m: Local binary started successfully
+2023-08-28 15:16:59 - [32minfo[39m: Reading configs from /home/tempbruh/Escritorio/borrame/CI-CD-Selenium_Abdala-Gonzalez-main/browserstack.yml
+2023-08-28 15:16:59 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-08-28 15:17:01 - [32minfo[39m: Local binary started successfully
+2023-08-28 15:17:16 - [32minfo[39m: Reading configs from /home/tempbruh/Escritorio/borrame/CI-CD-Selenium_Abdala-Gonzalez-main/browserstack.yml
+2023-08-28 15:17:16 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-08-28 15:17:19 - [32minfo[39m: Local binary started successfully
+2023-08-28 15:17:23 - [32minfo[39m: Running your mocha tests across 3 platforms
+2023-08-28 15:17:23 - [32minfo[39m: Now, showing logs from mocha
+2023-08-28 15:17:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-08-28 15:17:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-08-28 15:17:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-08-28 15:18:18 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0bc0580269402d4baa73f1583c59022caa54fde9
+2023-08-28 15:18:18 - [32minfo[39m: Visit https://observability.browserstack.com/builds/hxbugvkpvgcqvgduy6usn0n5i57qinwvc0hptdsc to view build report, insights, and many more debugging information all at one place!
+
+2023-08-28 15:18:21 - [32minfo[39m: Local binary stopped

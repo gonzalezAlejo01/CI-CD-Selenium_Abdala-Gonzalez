@@ -1,0 +1,18 @@
+
+
+Mon Aug 28 2023 15:17:17:610 GMT-0300 (-03) -- Binary semantic version is v8.9.2
+Mon Aug 28 2023 15:17:17:610 GMT-0300 (-03) -- Setting output as extra verbose with request parsing
+Mon Aug 28 2023 15:17:17:659 GMT-0300 (-03) -- [WARNING] Skipping initialisation of configuration console because: port 45454 already in use by another Binary
+Mon Aug 28 2023 15:17:17:659 GMT-0300 (-03) -- [WARNING] Skipping initialisation of configuration console because: port 45954 already in use by another Binary
+Mon Aug 28 2023 15:17:19:77 GMT-0300 (-03) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Mon Aug 28 2023 15:17:19:305 GMT-0300 (-03) -- Connecting to BrowserStack using WebSocket protocol...
+Mon Aug 28 2023 15:17:19:305 GMT-0300 (-03) -- Platform supports WebSocket connections.
+
+Mon Aug 28 2023 15:17:19:405 GMT-0300 (-03) -- Press Ctrl-C to exit
+
+
+Mon Aug 28 2023 15:17:51:955 GMT-0300 (-03) -- Request to: cicd-ad4w.onrender.com:443
+Mon Aug 28 2023 15:17:51:956 GMT-0300 (-03) -- [PARSING HANDSHAKE][10][155980401] Handshake request to cicd-ad4w.onrender.com:443
+Mon Aug 28 2023 15:17:51:956 GMT-0300 (-03) -- Connecting to: cicd-ad4w.onrender.com:443
+Mon Aug 28 2023 15:17:51:980 GMT-0300 (-03) -- Connected to: 216.24.57.3

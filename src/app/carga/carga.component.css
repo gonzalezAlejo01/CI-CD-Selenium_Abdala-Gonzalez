@@ -1,0 +1,53 @@
+.elNav{
+    color: white;
+    padding: 1vh 3vh 1vh 3vh;
+    margin-left: 15vh;
+    margin-right: 15vh;
+}
+.btn-menu{
+    transition: ease-in-out .3s;
+    background-color: black;
+}
+.btn-menu:hover{
+    color: black;
+    background-color: white;
+    transition: ease-in-out .3s;
+    cursor: pointer;
+}
+
+#btn{
+    font-size: 1.3vw;
+    transition: ease-in-out .3s;
+    margin-bottom: 5vh;
+    background-color: white;
+}
+#btn:hover{
+    color: white;
+    background-color: black;
+    transition: ease-in-out .3s;
+    cursor: pointer;
+}
+.centrado{
+    margin-top: 2vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#teJuroQueSeManda{
+    text-align: center;
+    color: red;
+    font-size: 24px;
+}
+
+#mandar{
+    width: 10vw;
+    height: 5vh;
+
+}
+input{
+    width: 15vw;
+    height: 5vh;
+    font-size: 18px;
+    text-align: center;
+}

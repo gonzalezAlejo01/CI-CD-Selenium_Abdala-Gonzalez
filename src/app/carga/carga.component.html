@@ -1,0 +1,9 @@
+<nav style="display: flex; background-color: black; width: 100%; justify-content: center;">
+    <p id="logout" class="elNav btn-menu" (click)="logOut()">Cerrar sesión</p>
+    <p id="verdatos" class="elNav btn-menu" routerLink="/Datos">Ver datos</p>
+    <p id="cargardatos" class="elNav btn-menu" routerLink="/carga">Cargar datos</p>
+</nav>
+<input class="centrado" id="palabra" #palabra placeholder="Escriba una palabra">
+<input class="centrado" id="numero" #numero placeholder="Escriba un numero" type="number">
+<button class="centrado" id="mandar" (click)="mandar(palabra.value, numero.value)">Enviar datos</button>
+<p id="teJuroQueSeManda" #teJuroQueSeManda>{{status}}</p>
